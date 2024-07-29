@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    flex-direction: column;
+}
+
+h2{
+    width: 300px;
+    background-color: rgb(73, 73, 143);
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+button{
+    margin: 10px;
+    padding: 20px;
+    width: 100px;
+}
+
+span{
+    color: rgb(240, 228, 228);
+}
+
+#result{
+    font-size: 3rem;
+}
